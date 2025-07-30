@@ -2,7 +2,7 @@
 
 *NAME*: KOLLURI BHANUTEJA
 
-## The Weather Forecasting System is a smart IoT-based solution developed using an ESP32 microcontroller to monitor real-time weather conditions and display both local sensor data and global weather forecasts through a web dashboard. The primary motivation behind this project is to combine local environmental sensing with external forecast data to give users a complete view of their surroundings. This project has practical applications in agriculture, outdoor event planning, and smart city development.
+The Weather Forecasting System is a smart IoT-based solution developed using an ESP32 microcontroller to monitor real-time weather conditions and display both local sensor data and global weather forecasts through a web dashboard. The primary motivation behind this project is to combine local environmental sensing with external forecast data to give users a complete view of their surroundings. This project has practical applications in agriculture, outdoor event planning, and smart city development.
 
 The system integrates a DHT11 sensor to capture real-time temperature and humidity, and an analog rain sensor to detect the presence of rainfall. These sensors are connected to an ESP32 board, which acts as a web server. When the ESP32 is connected to a Wi-Fi network (such as a mobile hotspot), users can access the live weather dashboard by entering the ESP32's IP address in any browser.
 
