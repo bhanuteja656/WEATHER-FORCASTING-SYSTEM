@@ -24,3 +24,4 @@ In addition to being a demonstration of how embedded systems can interact with w
 The Weather Forecasting System stands out for its simplicity, real-time capabilities, and potential for customization. It proves how IoT and cloud services can work together to deliver meaningful, real-time data to end users, all hosted on a small, efficient device like the ESP32.
 
 # OUTPUT
+<img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/eb2cf1b0-b1ac-47de-85cd-31fd2bb35d12" />
